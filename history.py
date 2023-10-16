@@ -62,3 +62,15 @@ runfile('C:/Users/Personal/.spyder-py3/files_to_load.py', wdir='C:/Users/Persona
 
 ## ---(Thu Oct 12 09:34:01 2023)---
 runfile('C:/Users/Personal/.spyder-py3/multiprocessing_final.py', wdir='C:/Users/Personal/.spyder-py3')
+
+## ---(Thu Oct 12 12:43:58 2023)---
+runfile('C:/Users/Personal/.spyder-py3/multiprocessing_final.py', wdir='C:/Users/Personal/.spyder-py3')
+
+## ---(Fri Oct 13 10:44:38 2023)---
+runfile('C:/Users/Personal/.spyder-py3/checking_for_file_sequence.py', wdir='C:/Users/Personal/.spyder-py3')
+runfile('C:/Users/Personal/.spyder-py3/untitled4.py', wdir='C:/Users/Personal/.spyder-py3')
+runfile('C:/Users/Personal/.spyder-py3/files_verification.py', wdir='C:/Users/Personal/.spyder-py3')
+runfile('C:/Users/Personal/.spyder-py3/untitled5.py', wdir='C:/Users/Personal/.spyder-py3')
+runfile('C:/Users/Personal/.spyder-py3/untitled6.py', wdir='C:/Users/Personal/.spyder-py3')
+runfile('C:/Users/Personal/.spyder-py3/checking_for_file_sequence.py', wdir='C:/Users/Personal/.spyder-py3')
+runfile('C:/Users/Personal/.spyder-py3/file_download_from_server.py', wdir='C:/Users/Personal/.spyder-py3')

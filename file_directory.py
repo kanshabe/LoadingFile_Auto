@@ -1,7 +1,7 @@
 import os
 
 # directory of the files to load
-Dir_path ='D:\\FILES_FROM_PYTHON'
+Dir_path ='D:\\MULTIPROCESSING_FILES'
 
 # directory for output files
 out_dir = os.path.join(Dir_path, 'output_folder')

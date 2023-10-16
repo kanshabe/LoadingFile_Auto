@@ -1,6 +1,7 @@
 import paramiko
 
 
+
 def download_files_with_pattern(sftp, remote_directory, local_directory, pattern):
     remote_files = sftp.listdir(remote_directory)
 
@@ -24,8 +25,8 @@ def main():
     sftp_client = ssh_client.open_sftp()
 
     remote_directory = '/media/data1/trvs/airtel/04_ocs/OVOICE'
-    local_directory = 'D:\\FILES_FROM_PYTHON'
-    pattern = 'cbs_cdr_voice_20231003_'  # Modify this to your desired pattern
+    local_directory = 'D:\\SEQUENCE_TEST_FILES'
+    pattern = 'cbs_cdr_voice_20231008_'  # Modify this to your desired pattern
 
     download_files_with_pattern(sftp_client, remote_directory, local_directory, pattern)
 
